@@ -24,4 +24,6 @@ My key responsibilities consisted of but not limited to:
 
 5.	Testing, Debugging and Prototyping of designed system 
 
-6.	Implementation of the PCBs and assembly the complete electrical setup.
+6.	Implementation of the PCBs and assembly of the complete electrical system. 
+
+

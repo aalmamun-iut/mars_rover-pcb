@@ -14,14 +14,14 @@ During this time, I learnt from facing real world challenges of scale and comple
 
 My key responsibilities consisted of but not limited to:
 
->>	Designing of the power & load distribution system, remote power monitoring system, rover drive module and robotic arm control module, multiplexing module and emergency system.
+1.	Designing of the power & load distribution system, remote power monitoring system, rover drive module and robotic arm control module, multiplexing module and emergency system.
 
->>	Creating custom PCB packages in Proteus for parts and modules that are not available in the existing library. 
+2.	Creating custom PCB packages in Proteus for parts and modules that are not available in the existing library. 
 
->>	Interfacing between single board computer (Raspberry Pi) and microcontroller-based development boards (STM32, ESP8266 and Arduino). 
+3.	Interfacing between single board computer (Raspberry Pi) and microcontroller-based development boards (STM32, ESP8266 and Arduino). 
 
->>	Coordinate with the programming team to facilitate interfacing between the electrical hardware and rover software.
+4.	Coordinate with the programming team to facilitate interfacing between the electrical hardware and rover software.
 
->>	Testing, Debugging and Prototyping of designed system 
+5.	Testing, Debugging and Prototyping of designed system 
 
->>	Implementation of the PCBs and assembly the complete electrical setup.
+6.	Implementation of the PCBs and assembly the complete electrical setup.
